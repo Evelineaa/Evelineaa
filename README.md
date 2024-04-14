@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, you there!
+I'm Milla from northern Finland. My passion is to develop my skills and build them bigger every week. 
+Currently, I'm studying information- and communication technology engineer with a focus on software development.
+
+⚡ Fun fact about me: My biggest dream is to swim next to the whales
 
 <!--
 **Evelineaa/Evelineaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
