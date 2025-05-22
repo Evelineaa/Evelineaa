@@ -1,6 +1,5 @@
-Hi, you there!
-I'm Milla from northern Finland. My passion is to develop my skills and build them bigger every week. 
-Currently, I'm studying information- and communication technology with a focus on software development.
+Hi there!
+I'm studying information- and communication technology with a focus on software development.
 
 <!--
 **Evelineaa/Evelineaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
