@@ -1,5 +1,5 @@
 Hi there!
-I'm studying information- and communication technology with a focus on software development.
+I'm a information- and communication technology engineer with a focus on software development.
 
 <!--
 **Evelineaa/Evelineaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
